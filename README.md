@@ -1,6 +1,5 @@
 # Electric bike management project
-Work done for the last year of my BTS SNIR
-Duration : 6 months
+Work done for the last year of my BTS SNIR.  Duration : 6 months
 
 # Setting the scene
 The company providing this service is called GREENWAY.
