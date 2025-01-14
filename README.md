@@ -15,4 +15,4 @@ Technicians can :
 
 # Works collaboratively
 This project was carried out with the help of 2 other students and a teacher.  
-Link to the part made by my friend ‘<ins>Zeikrom251</ins>’ https://github.com/Zeikrom251/Fleet-bikes-management
+Link to the part made by my friend ‘Zeikrom251’ --> https://github.com/Zeikrom251/Fleet-bikes-management
