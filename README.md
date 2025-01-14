@@ -7,8 +7,8 @@ It offers the possibility of hiring electric bicycles to private individuals on 
 
 # Features
 Technicians can 
-*Locate a bike on a website
-*sound an alarm on a bike
-*unlock / lock a battery
+* Locate a bike on a website
+* sound an alarm on a bike
+* unlock / lock a battery
 * update the company's database
 
