@@ -1,5 +1,5 @@
 # Electric bike management project
-Work done for the last year of my BTS SNIR.
+Work done for the last year of my BTS SNIR. 
 Duration : 6 months
 
 # Setting the scene
