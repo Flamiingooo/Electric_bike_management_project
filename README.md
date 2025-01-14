@@ -15,4 +15,4 @@ Technicians can :
 
 # Works collaboratively
 This project was carried out with the help of 2 other students and a teacher.  
-Link to the part made by my friend ‘_Zeikrom251_’.
+Link to the part made by my friend ‘_Zeikrom251_’ .................
